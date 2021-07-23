@@ -1,0 +1,54 @@
+{
+    "topcases": {
+        "x": [
+            "Los Angeles - California",
+            "Maricopa - Arizona",
+            "Cook - Illinois",
+            "Miami-Dade - Florida",
+            "Harris - Texas",
+            "Dallas - Texas",
+            "Riverside - California",
+            "San Bernardino - California",
+            "San Diego - California",
+            "Orange - California"
+        ],
+        "y": [
+            1276818,
+            572062,
+            560675,
+            515810,
+            411095,
+            311380,
+            304512,
+            303673,
+            288745,
+            278209
+        ]
+    },
+    "topdeaths": {
+        "x": [
+            "Los Angeles - California",
+            "Cook - Illinois",
+            "Maricopa - Arizona",
+            "Harris - Texas",
+            "Miami-Dade - Florida",
+            "San Bernardino - California",
+            "Wayne - Michigan",
+            "Orange - California",
+            "Riverside - California",
+            "Clark - Nevada"
+        ],
+        "y": [
+            24609.0,
+            11107.0,
+            10403.0,
+            6669.0,
+            6472.0,
+            5230.0,
+            5196.0,
+            5139.0,
+            4657.0,
+            4599.0
+        ]
+    }
+}

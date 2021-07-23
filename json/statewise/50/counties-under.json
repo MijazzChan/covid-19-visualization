@@ -1,0 +1,50 @@
+{
+    "countyX": [
+        "Addison",
+        "Bennington",
+        "Caledonia",
+        "Chittenden",
+        "Essex",
+        "Franklin",
+        "Grand Isle",
+        "Lamoille",
+        "Orange",
+        "Orleans",
+        "Rutland",
+        "Washington",
+        "Windham",
+        "Windsor"
+    ],
+    "casesY": [
+        1084,
+        2063,
+        1085,
+        7629,
+        297,
+        2045,
+        217,
+        891,
+        835,
+        1307,
+        2306,
+        1924,
+        1413,
+        1532
+    ],
+    "deathsY": [
+        8,
+        15,
+        7,
+        107,
+        2,
+        39,
+        2,
+        3,
+        3,
+        11,
+        20,
+        15,
+        14,
+        13
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "countyX": [
+        "Belknap",
+        "Carroll",
+        "Cheshire",
+        "Coos",
+        "Grafton",
+        "Hillsborough",
+        "Merrimack",
+        "Rockingham",
+        "Strafford",
+        "Sullivan"
+    ],
+    "casesY": [
+        4229,
+        2519,
+        3931,
+        2103,
+        4113,
+        36575,
+        9759,
+        24525,
+        10145,
+        1900
+    ],
+    "deathsY": [
+        101,
+        13,
+        35,
+        45,
+        30,
+        648,
+        116,
+        269,
+        100,
+        27
+    ]
+}

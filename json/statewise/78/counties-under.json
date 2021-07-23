@@ -1,0 +1,17 @@
+{
+    "countyX": [
+        "St. Croix",
+        "St. John",
+        "St. Thomas"
+    ],
+    "casesY": [
+        1644,
+        262,
+        2395
+    ],
+    "deathsY": [
+        12,
+        1,
+        22
+    ]
+}
